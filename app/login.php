@@ -19,7 +19,7 @@
                 <label class="form-label" for="form2Example1">Campo de e-mail</label>
             </div>
 
-            <!-- Password input -->
+            <!-- Password input  teste JURACI-->
             <div data-mdb-input-init class="form-outline mb-4">
                 <input type="password" id="form2Example2" class="form-control" />
                 <label class="form-label" for="form2Example2">Campo de senha</label>
